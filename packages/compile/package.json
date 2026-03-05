@@ -49,7 +49,7 @@
     "demo-contract": "^0.5.2",
     "demo-utils": "^0.5.1-alpha.0",
     "ethereumjs-util": "6.1.0",
-    "immutable": "4.0.0-rc.12",
+    "immutable": "4.3.8",
     "openzeppelin-solidity": "2.2.0",
     "solc": "0.5.8"
   },
